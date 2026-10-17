@@ -5,7 +5,7 @@ def inicio(request):
     """Vista que recibe la petición, prepara el contexto y devuelve HTML con render."""
     contexto = {
         'titulo': 'Componente Práctico - Estructura de Datos',
-      'mensaje': 'Hola, somos los estudiantes de Estructura de Datos - UNEMI',
+        'mensaje': 'Hola, somos los estudiantes de Estructura de Datos - UNEMI',
         'flujo': [
             'Navegador',
             'urls.py del proyecto',
