@@ -1,0 +1,7 @@
+# Entorno virtual (cada uno lo crea con python -m venv venv)
+venv/
+# Base de datos local generada por migrate
+db.sqlite3
+# Archivos compilados de Python
+__pycache__/
+*.pyc
