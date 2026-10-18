@@ -2,7 +2,7 @@
 
 **Asignatura:** Estructura de Datos, UNEMI (Carrera de Ingeniería de Software)
 **Docente:** Ing. Guevara Reyes Rodrigo Josue
-**Integrantes:** Alfredo Josua Cruz Chalen
+**Integrantes:** Alfredo Josua Cruz Chalen · Jean Pierre Bustos Ortiz
 
 Demostración introductoria de Django 5.2: un proyecto (`proyecto_demo`) con una aplicación (`inicio`) que recibe una petición, prepara un contexto en la vista y renderiza una plantilla HTML.
 
